@@ -3,6 +3,18 @@ text="Hello Python"
 print(type(text))
 # ----------------------------------
 
+# Single quotes
+str1 = 'Hello'
+
+# Double quotes
+str2 = "World"
+
+# Triple quotes (multi-line)
+str3 = """This is
+a multi-line
+string."""
+
+# ---------------------------------------------------------
 s1="Hello"    # string in double quotes
 print(s1)
 
@@ -14,3 +26,4 @@ print(s3)
 
 s4='I said "yipee"' # double quote string in single quotes
 print(s4)
+

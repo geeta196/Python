@@ -27,9 +27,3 @@ print(s3)
 s4='I said "yipee"' # double quote string in single quotes
 print(s4)
 
-name = "Geeta"
-age = 22
-city = "Pune"
-print(name)
-print(age)
-print(city)
